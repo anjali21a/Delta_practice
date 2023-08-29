@@ -1,2 +1,2 @@
 # Delta_practice
-This is delta practice repository
+This is delta practice repository.
